@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+SRC/Data/RAW/viajes-en-tren-sample.csv
+SRC/Modelos/Modelo ganador/trenes_Randomforest_model

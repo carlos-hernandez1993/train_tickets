@@ -1,0 +1,3 @@
+HTTPS :  https://github.com/PalmaValdecantos/Primer_ML.git    
+
+SSH:  git@github.com:PalmaValdecantos/Primer_ML.git
